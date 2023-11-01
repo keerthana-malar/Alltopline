@@ -30,6 +30,16 @@ input[type="submit"],input[type="reset"],a,.inter3l_banner_bottom_grid1 i,.inter
 .logo-img{
     width: 150px;
 }
+/* .team-bx{
+    height: 200px;
+    display: flex;
+    align-items: center;
+} */
+.team-bx img{
+    height:100px !important;
+    object-fit: cover;
+    overflow: hidden;
+}
 a:focus{
 	outline:none;
 }
