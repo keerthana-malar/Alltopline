@@ -551,22 +551,22 @@ span.ttt {
 	color: #3B5998;
 }
 .social-button.twitter:before {
-	background-color: #3CF;
+	background-color: rgb(223, 26, 68);
 }
 .social-button.twitter .fa {
-	color: #3CF;
+	color: rgb(223, 26, 68);
 }
 .social-button.google:before {
-	background-color: #DC4A38;
+	background-color: #0c9b07;
 }
 .social-button.google .fa {
-	color: #DC4A38;
+	color: #0c9b07;
 }
 .social-button.dribbble:before {
-	background-color: #F26798;
+	background-color: #3CF;
 }
 .social-button.dribbble .fa {
-	color: #F26798;
+	color: #3CF;
 }
 .social-button.skype:before {
 	background-color: #00AFF0;
