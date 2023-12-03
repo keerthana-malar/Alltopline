@@ -1,9 +1,9 @@
 
 html, body{
     font-size: 100%;
-	font-family: 'Open Sans', sans-serif;
-	background:#ffffff;
-	margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background: #ffffff;
+    margin: 0;
 }
 p,ul li,ol li{
 	margin:0;
@@ -305,6 +305,12 @@ i.interile-sicon {
 .interile-about {
     padding: 5em 0;
 }
+.slides li h3{
+    color: #f11616 !important;
+}
+.slides li p{
+    color: #104edff3 !important;
+}
 .interile-about h4 {
     font-size: 26px;
     margin: 20px 0;
@@ -374,7 +380,7 @@ p.inter3interile {
 /*-- special --*/
 .special {
     padding: 5em 0;
-    background: url(../images/banner2.jpg)no-repeat 0px 0px;
+    background: url(../images/ss2.jpeg)no-repeat 0px 0px;
     background-size: cover;
 	z-index:9;
 }
@@ -448,10 +454,10 @@ p.inter3interile {
     letter-spacing: 5px;
 }
 span.thr {
-    color: #fff;
+    color: #d80b0b;
 }
 p.inter3interile.fru {
-    color: #fff;
+    color: aliceblue;
 }
 /*-- //special --*/
 /*-- stats --*/
@@ -482,10 +488,9 @@ p.inter3interile.fru {
 .inter3l_stats_bottom_grid_left img {
     margin: 0 auto;
 }
-
 .stats {
     text-align: center;
-   background: url(../images/banner.jpg) no-repeat 0px 0px;
+   background: url(../images/ss3.jpeg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1235,12 +1240,13 @@ ul.interile_footer_grid_list li i{
 	bottom: 20px;
 	right: 2%;
 	overflow: hidden;
-	z-index: 999; 
+	z-index: 999;
 	width: 32px;
 	height: 32px;
 	border: none;
 	text-indent: 100%;
 	background: url(../images/arrow.png) no-repeat 0px 0px;
+	color: rebeccapurple;
 }
 #toTopHover {
 	width: 32px;
