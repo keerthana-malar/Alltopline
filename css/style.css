@@ -309,7 +309,7 @@ i.interile-sicon {
     color: #f11616 !important;
 }
 .slides li p{
-    color: #104edff3 !important;
+    color: #fffffff3 !important;
 }
 .interile-about h4 {
     font-size: 26px;
@@ -626,6 +626,7 @@ span.ttt {
     margin-right: 5%;
     padding: 2em 1em;
     border: 1px solid #999;
+    height: 610px;
 }
 .interileits_team_grid:nth-child(3) {
     margin-right: 0%;
