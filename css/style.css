@@ -403,8 +403,9 @@ p.inter3interile {
 }
 .interileits-special-info{
     text-align: center;
-          padding: 4em 1.3em;
+    padding: 4em 1.3em;
     background: #F5F5F5;
+    height: 235px;
 }
 .interileits-special-info h4{
    color:#d80b0b;
@@ -412,7 +413,7 @@ p.inter3interile {
     margin: 0px 0 0px;
     position: relative;
     letter-spacing: 2px;
-	    text-align: left;
+	text-align: left;
 }
 .interileits-special-info h4:after{
     content: '';
@@ -596,6 +597,12 @@ span.ttt {
 .team{
 	padding: 5em 0;
 }
+.highlight{
+    color:#076799 !important;
+}
+.img-responsive{
+    padding: 5px !important;
+}
 .interileits_team_grid_figure_social{
 	margin:4em 0 0 0.5em;
 }
@@ -626,7 +633,7 @@ span.ttt {
     margin-right: 5%;
     padding: 2em 1em;
     border: 1px solid #999;
-    height: 630px;
+    height: 550px;
 }
 .interileits_team_grid:nth-child(3) {
     margin-right: 0%;
