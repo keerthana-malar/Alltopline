@@ -30,6 +30,19 @@ input[type="submit"],input[type="reset"],a,.inter3l_banner_bottom_grid1 i,.inter
 .logo-img{
     width: 150px;
 }
+.contan{
+        margin: 0px 20px;
+    }
+    .hdmenu{
+        position: relative;
+    }
+    .hdmenu:hover .hm{
+        display: block;
+        position:absolute;
+        top:0;
+        left:250px;
+        width:350px;
+        }
 /* .team-bx{
     height: 200px;
     display: flex;
