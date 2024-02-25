@@ -696,11 +696,11 @@ span.ttt {
 }
 .interileits_team_grid {
   text-align: center;
-  width: 30%;
-  margin-right: 5%;
+  /* width: 30%; */
+  /* margin-right: 5%; */
   padding: 2em 1em;
   border: 1px solid #999;
-  height: 600px;
+  height: 510px;
 }
 .interileits_team_grid:nth-child(3) {
   margin-right: 0%;
