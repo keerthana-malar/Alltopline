@@ -2924,3 +2924,13 @@ h2.typoh2 {
     padding: 2em 0;
   }
 }
+.social{
+  padding:20px 10px;
+  a{
+    color:#fff;
+  }
+  i{
+    font-size: 22px;
+    margin-right:10px;
+  }
+}
